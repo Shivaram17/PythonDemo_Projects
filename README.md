@@ -3,3 +3,4 @@
 2) Oct-29-2021        to_dict() method
 3) Nov-08-2021        generating uuid
 4) Nov-15-2021        Re search
+5) Nov-15-2021        Re compile and findall

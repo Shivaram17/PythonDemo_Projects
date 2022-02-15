@@ -8,3 +8,4 @@
 7) Dec-14-2021        re split comma based string withoud considering commas in brackets
 8) Jan-11-2022        Automate to type words from a text file using pyautogui
 9) Feb-10-2022        Filter and concat
+10) Feb-15-2022       Pop and insert in pandas dataframes

@@ -13,3 +13,4 @@
 12) Feb-26-2022       Iterrows and datetime
 13) Mar-29-2022       Groupby and concatenation
 14) Apr-12-2022       Incremental Summary report
+15) Dec-12-2022       IsAnagram and merge sorted lists JashDataScience interview questions
